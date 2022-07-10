@@ -16,6 +16,7 @@ ___
 ### Population Statistics
 #### United States
 - [Most Common Surnames in the United States Decennial Census (1990, 2000, 2010)](https://bit.io/bitdotio/census-surnames?utm_source=github&utm_medium=social&utm_campaign=publicdata-surnames) (Added June 27, 2022)
+- [Reasons for CEO Dismissals in the United States from 1992 until 2018](https://bit.io/bitdotio/pubdata4) (Added July 9, 2022)
 
 ### Technology
 - [Most Powerful Supercomputers in the World](https://bit.io/bitdotio/top500_supercomputers?utm_source=github&utm_medium=social&utm_campaign=publicdata-supercomputers) (Added June 27, 2022)
