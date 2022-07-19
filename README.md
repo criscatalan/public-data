@@ -12,6 +12,7 @@ ___
 ### Health
 #### Global
 - [World Health Organization Tobacco Use Data](https://bit.io/bitdotio/who_tobacco_use?utm_source=github&utm_medium=social&utm_campaign=publicdata-who-tobacco-use) (Added July 14, 2022)
+- [The World Health Organization's Disease Outbreak News (1996-2019): A Retrospective Database](https://bit.io/bitdotio/pubdata6) (Added July 19, 2022)
 
 ### Politics
 #### United States
